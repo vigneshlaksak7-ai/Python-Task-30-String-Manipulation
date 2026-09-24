@@ -1,0 +1,4 @@
+stud=['ajith kumar','chandra bose','ravi varma','teja sree','akshay narayanan']
+print(stud)
+for i in stud:
+    print(i.split()[1].upper())
